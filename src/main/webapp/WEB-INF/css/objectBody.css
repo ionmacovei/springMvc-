@@ -1,0 +1,10 @@
+#bodyObject {
+    border-radius: 15px 50px 30px;
+    float: left;
+    padding: 20px;
+    width: 80%;
+    height: auto;
+    display: inblock;
+    clear: both;
+}
+
